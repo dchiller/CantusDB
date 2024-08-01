@@ -17,10 +17,8 @@
             <h4>
                 <a href="{% url 'article-detail' article.id %}">{{ article.title }}</a>
             </h4>
-            <div class="container">
-                <small>
+            <div class="container small">
                 {{ article.body.html|safe|truncatechars_html:3000 }}
-                </small>
             </div>
         </div>
     </div>

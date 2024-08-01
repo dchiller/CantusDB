@@ -15,12 +15,12 @@
 
 {% block maincontent %}
     <h3>Browse Chants</h3>
-    <small>Displaying <b>{{ page_obj.start_index }}-{{ page_obj.end_index }}</b> of <b>{{ page_obj.paginator.count }}</b> chants</small>
+    <span class="small">Displaying <b>{{ page_obj.start_index }}-{{ page_obj.end_index }}</b> of <b>{{ page_obj.paginator.count }}</b> chants</span>
     
     <form method="get">
         <div class="form-row align-items-end">
             <div class="form-group m-1 col-lg">
-                <label for="sourceFilter"><small><b>Source</b></small></label>
+                <label for="sourceFilter" class="small"><b>Source</b></label>
                 <select id="sourceFilter" name="source" class="form-control custom-select custom-select-sm">
                     {% comment %} <option value="">- Any -</option> {% endcomment %}
                     {% for source_obj in sources %}
@@ -32,7 +32,7 @@
 
         <div class="form-row align-items-end">
             <div class="form-group m-1 col-lg">
-                <label for="feastFilter"><small><b>Feast</b></small></label>
+                <label for="feastFilter" class="small"><b>Feast</b></label>
                 <select id="feastFilter" name="feast" class="form-control custom-select custom-select-sm">
                     <option value="">- Any -</option>
                     {% for feast in feasts %}
@@ -44,12 +44,12 @@
 
         <div class="form-row align-items-end">
             <div class="form-group m-1 col-lg">
-                <label for="search"><small><b>Search Text</b></small></label>
+                <label for="search" class="small"><b>Search Text</b></label>
                 <input id="search" type="text" class="form-control form-control-sm" name="search_text" value="{{ request.GET.search_text }}">
             </div>
 
             <div class="form-group m-1 col-lg">
-                <label for="genreFilter"><small><b>Genre</b></small></label>
+                <label for="genreFilter" class="small"><b>Genre</b></label>
                 <select id="genreFilter" name="genre" class="form-control custom-select custom-select-sm">
                     <option value="">- Any -</option>
                     {% for genre in genres %}
@@ -145,9 +145,8 @@
             <h4><a href="{% url 'source-detail' source.id %}" title="{{ source.heading }}">{{ source.short_heading }}</a></h4>
         </div>
 
-        <div class="card-body">
-            <small>
-                <!--a small selector of all folios of this source-->
+        <div class="card-body small">
+                <!--a selector of all folios of this source-->
                 <select name="folio" id="folioFilter" class="w-30">
                     <option value="">Select a folio:</option>
                     {% for folio in folios %}
@@ -182,7 +181,6 @@
                 <a href="{% url "chant-search-ms" source.id %}" class="guillemet" target="_blank">Search chants in this source</a>
                 <a href="{% url "melody-search" %}?source={{ source.id }}"  class="guillemet" target="_blank">Search melodies in this source</a>
                 <a href="//cantusindex.org/analyse?src={{ source.id }}&db=CD" class="guillemet" target="_blank">Analyse this source (Cantus Analysis Tool)</a>
-            </small>
         </div>    
 
     </div>
