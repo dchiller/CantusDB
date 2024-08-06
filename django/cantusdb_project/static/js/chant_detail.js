@@ -124,3 +124,34 @@ function loadMelodies(cantusId) {
     melodyButton.style.display = "none";
 }
 
+function summarizeConcordances(concordanceData){
+    /**
+     * Summarizes the concordances returned by the Cantus
+     * Index `json-con` API endpoint for display on the 
+     * Chant Detail page.
+     * 
+     * @param {Array} concordanceData - The JSON array
+     * returned by the `json-con` API endpoint.
+     * @returns {Array} - A JSON object containing a summary
+     * of concordances
+     */
+
+}
+
+function getConcordances(cantusID){
+    const concordancesLoadingPrompt = document.getElementById("concordancesLoadingPrompt");
+    const concordancesDiv = document.getElementById("concordancesDiv");
+    const concordancesUrl = new URL(`json-con/${cantusID}/refresh`, "https://cantusindex.org");
+    const xhttp = new XMLHttpRequest();
+    xhttp.open("GET", concordancesUrl);
+    xhttp.onload = function () {
+        const concordancesData = JSON.parse(this.response);
+        
+    }
+    xhttp.onerror = function () {
+        concordancesLoadingPrompt.innerHTML = "";
+        const concordanceLoadError = document.createElement("p");
+        concordanceLoadError.innerHTML = "Cantus Database encountered an error while loading concordances(Cantus ID <b><a href=\"http://cantusindex.org/id/\" + cantusID + "' target='_blank' title='" + cantusID + " on Cantus Index'>" + cantusID + "</a></b>).""";
+    }
+    xhttp.send();
+}

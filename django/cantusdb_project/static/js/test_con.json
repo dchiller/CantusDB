@@ -1,0 +1,464 @@
+[
+    {
+        "chant": {
+            "siglum": "GB-Cu Mm.ii.9",
+            "srclink": "http:\/\/cantusdatabase.org\/source\/123603",
+            "chantlink": "http:\/\/cantusdatabase.org\/chant\/211481",
+            "folio": "295",
+            "sequence": 21,
+            "incipit": "Speciosa*",
+            "feast": "Suff. Mariae",
+            "genre": "A",
+            "office": "R",
+            "position": "",
+            "cantus_id": "206209",
+            "image": "",
+            "mode": "*",
+            "full_text": "",
+            "melody": "",
+            "db": "CD"
+        }
+    },
+    {
+        "chant": {
+            "siglum": "GB-Cu Mm.ii.9",
+            "srclink": "http:\/\/cantusdatabase.org\/source\/123603",
+            "chantlink": "http:\/\/cantusdatabase.org\/chant\/213404",
+            "folio": "529",
+            "sequence": 3,
+            "incipit": "Speciosa facta es et suavis",
+            "feast": "Nativitas Mariae,8",
+            "genre": "A",
+            "office": "R",
+            "position": "5",
+            "cantus_id": "206209",
+            "image": "",
+            "mode": "6T",
+            "full_text": "",
+            "melody": "",
+            "db": "CD"
+        }
+    },
+    {
+        "chant": {
+            "siglum": "GB-AB 20541 E",
+            "srclink": "http:\/\/cantusdatabase.org\/source\/123592",
+            "chantlink": "http:\/\/cantusdatabase.org\/chant\/153456",
+            "folio": "255r",
+            "sequence": 2,
+            "incipit": "Speciosa facta es et suavis",
+            "feast": "Nativitas Mariae,8",
+            "genre": "A",
+            "office": "R",
+            "position": "5",
+            "cantus_id": "206209",
+            "image": "",
+            "mode": "6T",
+            "full_text": "",
+            "melody": "",
+            "db": "CD"
+        }
+    },
+    {
+        "chant": {
+            "siglum": "F-Pn NAL 1535",
+            "srclink": "http:\/\/cantusdatabase.org\/source\/123633",
+            "chantlink": "http:\/\/cantusdatabase.org\/chant\/418801",
+            "folio": "098r",
+            "sequence": 1,
+            "incipit": "Speciosa facta es et suavis",
+            "feast": "Assumptio Mariae",
+            "genre": "A",
+            "office": "X",
+            "position": "20",
+            "cantus_id": "206209",
+            "image": "https:\/\/gallica.bnf.fr\/ark:\/12148\/btv1b84262784\/f199.image",
+            "mode": "6",
+            "full_text": "",
+            "melody": "",
+            "db": "CD"
+        }
+    },
+    {
+        "chant": {
+            "siglum": "I-AO 6",
+            "srclink": "http:\/\/cantusdatabase.org\/source\/123666",
+            "chantlink": "http:\/\/cantusdatabase.org\/chant\/164785",
+            "folio": "094v",
+            "sequence": 2,
+            "incipit": "Speciosa facta es et suavis",
+            "feast": "Nativitas Mariae",
+            "genre": "A",
+            "office": "E",
+            "position": "3",
+            "cantus_id": "206209",
+            "image": "",
+            "mode": "1",
+            "full_text": "",
+            "melody": "",
+            "db": "CD"
+        }
+    },
+    {
+        "chant": {
+            "siglum": "P-BRs Ms. 028",
+            "srclink": "https:\/\/pemdatabase.eu\/source\/48438",
+            "chantlink": "https:\/\/pemdatabase.eu\/musical-item\/60428",
+            "folio": "282v",
+            "incipit": "Speciosa facta es et suavis in ",
+            "feast": "Cantica Canticorum",
+            "genre": "A",
+            "office": "V",
+            "position": "M",
+            "image": "https:\/\/pemdatabase.eu\/image\/57105",
+            "mode": "5",
+            "fulltext": "Speciosa facta es et suavis in deliciis virginitatis sancta dei genetrix quam videntes filiae Sion vernantem in floribus rosarum et liliis convallium beatissimam praedicaverunt et reginae laudaverunt eam",
+            "melody": "",
+            "db": "PEM"
+        }
+    },
+    {
+        "chant": {
+            "siglum": "P-Cua Liber Catenatus ",
+            "srclink": "https:\/\/pemdatabase.eu\/source\/46520",
+            "chantlink": "https:\/\/pemdatabase.eu\/musical-item\/94630",
+            "folio": "181r",
+            "incipit": "Speciosa facta es et suavis in",
+            "feast": "De BMV",
+            "genre": "A",
+            "office": "V",
+            "position": "M",
+            "image": "https:\/\/pemdatabase.eu\/image\/58082",
+            "mode": "5",
+            "fulltext": "Speciosa facta es et suavis in deliciis virginitatis sancta dei genetrix quam videntes filiae Sion vernantem in floribus rosarum et liliis convallium beatissimam praedicaverunt et reginae laudaverunt eam",
+            "melody": "",
+            "db": "PEM"
+        }
+    },
+    {
+        "chant": {
+            "siglum": "P-Ln RES. 253 P.",
+            "srclink": "https:\/\/pemdatabase.eu\/source\/97935",
+            "chantlink": "https:\/\/pemdatabase.eu\/musical-item\/109590",
+            "folio": "194r",
+            "incipit": "Speciosa facta es et suavis in",
+            "feast": "De BMV",
+            "genre": "A",
+            "office": "V2",
+            "position": "M",
+            "image": "https:\/\/pemdatabase.eu\/image\/102020",
+            "mode": "*",
+            "fulltext": "Speciosa facta es et suavis in deliciis virginitatis sancta dei genetrix quam videntes filiae Sion vernantem in floribus rosarum et liliis convallium beatissimam praedicaverunt et reginae laudaverunt eam",
+            "melody": "",
+            "db": "PEM"
+        }
+    },
+    {
+        "chant": {
+            "siglum": "CZ-Pu (Praha) XII D 9",
+            "srclink": "http:\/\/cantusbohemiae.cz\/source\/9187",
+            "chantlink": "http:\/\/cantusbohemiae.cz\/chant\/21946",
+            "folio": "157r",
+            "incipit": "Specio[sa] facta es*",
+            "feast": "Allatio capillorum BMV",
+            "genre": "A",
+            "office": "V",
+            "position": "",
+            "image": "",
+            "mode": "",
+            "fulltext": "Specio[sa] facta es*",
+            "melody": "",
+            "db": "FCB"
+        }
+    },
+    {
+        "chant": {
+            "siglum": "CZ-Pu (Praha) XXIII D 142",
+            "srclink": "http:\/\/cantusbohemiae.cz\/source\/9309",
+            "chantlink": "http:\/\/cantusbohemiae.cz\/chant\/22016",
+            "folio": "127",
+            "incipit": "Speciosa facta es*",
+            "feast": "Dom. p. Ascensionem",
+            "genre": "A",
+            "office": "V",
+            "position": "E",
+            "image": "",
+            "mode": "",
+            "fulltext": "Speciosa facta es*",
+            "melody": "",
+            "db": "FCB"
+        }
+    },
+    {
+        "chant": {
+            "siglum": "CZ-Pu (Praha) XII A 22",
+            "srclink": "http:\/\/cantusbohemiae.cz\/source\/22046",
+            "chantlink": "http:\/\/cantusbohemiae.cz\/chant\/22051",
+            "folio": "045r",
+            "incipit": "Speciosa*",
+            "feast": "Allatio capillorum BMV",
+            "genre": "A",
+            "office": "V",
+            "position": "E",
+            "image": "",
+            "mode": "",
+            "fulltext": "Speciosa*",
+            "melody": "",
+            "db": "FCB"
+        }
+    },
+    {
+        "chant": {
+            "siglum": "CZ-Pu (Praha) XII A 22",
+            "srclink": "http:\/\/cantusbohemiae.cz\/source\/22046",
+            "chantlink": "http:\/\/cantusbohemiae.cz\/chant\/22066",
+            "folio": "44bis v",
+            "incipit": "Speciosa facta es*",
+            "feast": "Allatio capillorum BMV",
+            "genre": "A",
+            "office": "V",
+            "position": "",
+            "image": "",
+            "mode": "",
+            "fulltext": "Speciosa facta es*",
+            "melody": "",
+            "db": "FCB"
+        }
+    },
+    {
+        "chant": {
+            "siglum": "CZ-Pu (Praha) XII E 1",
+            "srclink": "http:\/\/cantusbohemiae.cz\/source\/22098",
+            "chantlink": "http:\/\/cantusbohemiae.cz\/chant\/22104",
+            "folio": "050r",
+            "incipit": "Speciosa*",
+            "feast": "Dom. p. Ascensionem",
+            "genre": "A",
+            "office": "V",
+            "position": "E",
+            "image": "",
+            "mode": "",
+            "fulltext": "Speciosa*",
+            "melody": "",
+            "db": "FCB"
+        }
+    },
+    {
+        "chant": {
+            "siglum": "CZ-Pu (Praha) XIII E 14f",
+            "srclink": "http:\/\/cantusbohemiae.cz\/source\/22153",
+            "chantlink": "http:\/\/cantusbohemiae.cz\/chant\/22159",
+            "folio": "323v",
+            "incipit": "Speciosa*",
+            "feast": "Allatio capillorum BMV",
+            "genre": "A",
+            "office": "V",
+            "position": "E",
+            "image": "",
+            "mode": "",
+            "fulltext": "Speciosa*",
+            "melody": "",
+            "db": "FCB"
+        }
+    },
+    {
+        "chant": {
+            "siglum": "CZ-Pu (Praha) XIII C 1a",
+            "srclink": "http:\/\/cantusbohemiae.cz\/source\/22179",
+            "chantlink": "http:\/\/cantusbohemiae.cz\/chant\/22185",
+            "folio": "077v",
+            "incipit": "Speciosa*",
+            "feast": "Dom. p. Ascensionem",
+            "genre": "A",
+            "office": "V",
+            "position": "M",
+            "image": "",
+            "mode": "",
+            "fulltext": "Speciosa*",
+            "melody": "",
+            "db": "FCB"
+        }
+    },
+    {
+        "chant": {
+            "siglum": "CZ-Pu (Praha) XIII C 5",
+            "srclink": "http:\/\/cantusbohemiae.cz\/source\/22705",
+            "chantlink": "http:\/\/cantusbohemiae.cz\/chant\/22709",
+            "folio": "068v",
+            "incipit": "Speciosa*",
+            "feast": "Dom. p. Ascensionem",
+            "genre": "A",
+            "office": "",
+            "position": "",
+            "image": "",
+            "mode": "",
+            "fulltext": "Speciosa*",
+            "melody": "",
+            "db": "FCB"
+        }
+    },
+    {
+        "chant": {
+            "siglum": "E-LUc s.s.",
+            "srclink": "https:\/\/musicahispanica.eu\/source\/22257",
+            "chantlink": "http:\/\/musicahispanica.eu\/chant\/46619",
+            "folio": "319r",
+            "incipit": "Speciosa facta es et suavis",
+            "feast": "De BMV",
+            "genre": "A",
+            "position": "",
+            "mode": "5",
+            "fulltext": "Speciosa facta es et suavis in deliciis virginitatis sancta dei genetrix quam videntes filiae Sion vernantem in floribus rosarum et liliis convallium beatissimam praedicaverunt et reginae laudaverunt eam",
+            "melody": "",
+            "db": "SEMM"
+        }
+    },
+    {
+        "chant": {
+            "siglum": "E-Tc 73.29",
+            "srclink": "https:\/\/musicahispanica.eu\/source\/111117",
+            "chantlink": "http:\/\/musicahispanica.eu\/chant\/111197",
+            "folio": "040v",
+            "incipit": "Speciosa facta es et suavis",
+            "feast": "Dom. Septuagesimae",
+            "genre": "A",
+            "position": "PI",
+            "mode": "5",
+            "fulltext": "Speciosa facta es et suavis in deliciis virginitatis sancta dei genetrix quam videntes filiae Sion vernantem odoribus rosarum et liliis convallium beatissimam praedicaverunt et reginae laudaverunt eam",
+            "melody": "",
+            "db": "SEMM"
+        }
+    },
+    {
+        "chant": {
+            "siglum": "E-Tc 73.29",
+            "srclink": "https:\/\/musicahispanica.eu\/source\/111117",
+            "chantlink": "http:\/\/musicahispanica.eu\/chant\/111320",
+            "folio": "058r",
+            "incipit": "Speciosa*",
+            "feast": "Dom. 1 Quadragesimae",
+            "genre": "A",
+            "position": "PI",
+            "mode": "5",
+            "fulltext": "Speciosa*",
+            "melody": "",
+            "db": "SEMM"
+        }
+    },
+    {
+        "chant": {
+            "siglum": "E-Tc 73.29",
+            "srclink": "https:\/\/musicahispanica.eu\/source\/111117",
+            "chantlink": "http:\/\/musicahispanica.eu\/chant\/111363",
+            "folio": "064v",
+            "incipit": "Speciosa*",
+            "feast": "Dom. 2 Quadragesimae",
+            "genre": "A",
+            "position": "PI",
+            "mode": "5",
+            "fulltext": "Speciosa*",
+            "melody": "",
+            "db": "SEMM"
+        }
+    },
+    {
+        "chant": {
+            "siglum": "E-Tc 73.29",
+            "srclink": "https:\/\/musicahispanica.eu\/source\/111117",
+            "chantlink": "http:\/\/musicahispanica.eu\/chant\/111371",
+            "folio": "066v",
+            "incipit": "Speciosa*",
+            "feast": "Dom. 3 Quadragesimae",
+            "genre": "A",
+            "position": "PI",
+            "mode": "5",
+            "fulltext": "Speciosa*",
+            "melody": "",
+            "db": "SEMM"
+        }
+    },
+    {
+        "chant": {
+            "siglum": "E-Tc 73.29",
+            "srclink": "https:\/\/musicahispanica.eu\/source\/111117",
+            "chantlink": "http:\/\/musicahispanica.eu\/chant\/111379",
+            "folio": "070v",
+            "incipit": "Speciosa*",
+            "feast": "Dom. 4 Quadragesimae",
+            "genre": "A",
+            "position": "PI",
+            "mode": "5",
+            "fulltext": "Speciosa*",
+            "melody": "",
+            "db": "SEMM"
+        }
+    },
+    {
+        "chant": {
+            "siglum": "CDN-Tu E-4 138",
+            "srclink": "https:\/\/musicahispanica.eu\/source\/111163",
+            "chantlink": "http:\/\/musicahispanica.eu\/chant\/112859",
+            "folio": "137r",
+            "incipit": "Speciosa facta es et suavis",
+            "feast": "Purificatio Mariae",
+            "genre": "A",
+            "position": "",
+            "mode": "5",
+            "fulltext": "Speciosa facta es et suavis in deliciis virginitatis sancta dei genetrix quam videntes filiae Sion vernantem in odoribus rosarum et liliis convallium beatissimam praedicaverunt et reginae laudaverunt eam\r",
+            "melody": "",
+            "db": "SEMM"
+        }
+    },
+    {
+        "chant": {
+            "siglum": "E-Bbc E-Bbc, Ms. 2322",
+            "srclink": "https:\/\/musicahispanica.eu\/source\/20244",
+            "chantlink": "http:\/\/musicahispanica.eu\/chant\/113288",
+            "folio": "113v",
+            "incipit": "Speciosa facta es et suavis",
+            "feast": "Assumptio Mariae,8",
+            "genre": "A",
+            "position": "M",
+            "mode": "5",
+            "fulltext": "Speciosa facta es et suavis in deliciis virginitatis sancta dei genetrix quam videntes filiae Sion vernantem in floribus rosarum et li[...] beatissimam praedicaverunt [...]am",
+            "melody": "",
+            "db": "SEMM"
+        }
+    },
+    {
+        "chant": {
+            "siglum": "F-SO : Ms 0334",
+            "srclink": "http:\/\/musmed.eu\/source\/14251",
+            "chantlink": "http:\/\/musmed.eu\/chant\/53269",
+            "folio": "028",
+            "incipit": "Speciosa facta es et suavis in ",
+            "feast": "Octava Assumptionis",
+            "genre": "A",
+            "office": "V2",
+            "position": "M",
+            "image": "https:\/\/bvmm.irht.cnrs.fr\/iiif\/3652\/canvas\/canvas-854870\/view",
+            "mode": "",
+            "fulltext": "Speciosa facta es et suavis in deliciis virginitatis sancta dei genetrix quam videntes filiae Sion vernantem in floribus rosarum et liliis convallium beatissimam praedicaverunt et reginae laudaverunt eam",
+            "melody": "",
+            "db": "MMMO"
+        }
+    },
+    {
+        "chant": {
+            "siglum": "F-Pn : NAL 01235",
+            "srclink": "http:\/\/musmed.eu\/source\/13534",
+            "chantlink": "http:\/\/musmed.eu\/chant\/80065",
+            "folio": "123v",
+            "incipit": "Speciosa facta es et suavis in ",
+            "feast": "Purificatio Mariae",
+            "genre": "A",
+            "office": "",
+            "position": "",
+            "image": "https:\/\/gallica.bnf.fr\/ark:\/12148\/btv1b8432301z\/f258.image",
+            "mode": "",
+            "fulltext": "Speciosa facta es et suavis in deliciis virginitatis sancta dei genitrix quam videntes filiae Sion vernantem in floribus rosarum et liliis convallium beatissimam praedicaverunt et reginae laudaverunt eam",
+            "melody": "",
+            "db": "MMMO"
+        }
+    }
+]

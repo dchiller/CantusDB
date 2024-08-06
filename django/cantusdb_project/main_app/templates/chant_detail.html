@@ -283,11 +283,8 @@
     </dl>
     {% if chant.cantus_id %}
         <h4 id="concordances">List of concordances</h4>
-        <p>
-            For concordances, please consult the
-            <a href="https://cantusindex.org/" target="_blank">Cantus Index</a> entry for Cantus ID
-            <b><a href="https://cantusindex.org/id/{{ chant.cantus_id }}" target="_blank">{{ chant.cantus_id }}</a></b>.
-        </p>
+        <span id="concordancesLoadingPrompt" style="display: none; color: #922"><b>Loading concordances...</b></span>
+        <div id="concordancesDiv"></div>
 
         <h4>List of melodies</h4>
         <span id="melodyLoadingPrompt" style="display: none; color: #922"><b>Loading melodies...</b></span>
